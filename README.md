@@ -45,9 +45,23 @@ PingWindows позволяет быстро и безопасно изменит
 
 ---
 
-## Скриншоты
+## Home
+![Home](screenshots/home.png)
 
-*(будут добавлены позже)*
+## Memory
+![Memory](screenshots/memory.png)
+
+## Privacy
+![Privacy](screenshots/privacy.png)
+
+## Performance
+![Performance](screenshots/performance.png)
+
+## Network
+![Network](screenshots/network.png)
+
+## Settings
+![Settings](screenshots/settings.png)
 
 ---
 
